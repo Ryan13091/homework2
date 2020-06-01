@@ -1,5 +1,8 @@
 # 02 Advanced CSS: Portfolio
 
+Live Link of Ryan Vincent - Portfolio: 
+https://ryan13091.github.io/homework2/ 
+
 A portfolio is often the first point of contact for employers looking to fill a position or clients in need of a developer to complete a project. A clean and informative portfolio showcases a developer's strongest work and can lead to employment and/or more clients. Build a professional portfolio site using HTML and advanced CSS, such as flexbox, CSS Grid Layout, media queries, and CSS variables.
 
 If you don't have enough applications to showcase at this point, add in some placeholder images and names. You can change these to real applications as you create them later in the course.
